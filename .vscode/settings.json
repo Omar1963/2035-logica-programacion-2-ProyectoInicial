@@ -1,5 +1,10 @@
 {
-    "editor.defaultFormatter" : "monokai.theme-monokai-pro-vscode"
+    "editor.defaultFormatter": "monokai.theme-monokai-pro-vscode",
+    "githubPullRequests.remotes": [
+        "origin",
+        "upstream",
+        "https://github.com/Omar1963/Juego_Secreto.git"
+    ]
     
     //"editor.defaultFormatter": "p1ayer4312.yaml-colors"
 }
