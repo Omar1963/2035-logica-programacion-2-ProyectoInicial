@@ -19,7 +19,7 @@ parrafo.innerHTML += '<br>¿Listo? ¡Vamos!';
 let valorUsuario;
 let numeroIntentos;
 let numeroGenerado; // Variable para almacenar el número secreto generado
-let numeroMaximo=4;
+let numeroMaximo= 10 ;
 let listaNumerosSecretos = []; // Array para almacenar los números secretos generados
 
 
